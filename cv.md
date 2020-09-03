@@ -1,0 +1,7 @@
+First Name: Alexandr, Last Name: Kireyeu.
+Contact Info: email: 6042042@gmail.com, skype: kireev234.
+Summary: i want to work as a developer. 
+Skills: JavaScript.
+Experience: 1 year as a QA engineer.
+Education:  QA courses.
+English: A2.
